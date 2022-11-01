@@ -1,0 +1,15 @@
+C:\repo\dotnet\lesson01\examples\task001\bin\Debug\net6.0\task001.exe
+C:\repo\dotnet\lesson01\examples\task001\bin\Debug\net6.0\task001.deps.json
+C:\repo\dotnet\lesson01\examples\task001\bin\Debug\net6.0\task001.runtimeconfig.json
+C:\repo\dotnet\lesson01\examples\task001\bin\Debug\net6.0\task001.dll
+C:\repo\dotnet\lesson01\examples\task001\bin\Debug\net6.0\task001.pdb
+C:\repo\dotnet\lesson01\examples\task001\obj\Debug\net6.0\task001.csproj.AssemblyReference.cache
+C:\repo\dotnet\lesson01\examples\task001\obj\Debug\net6.0\task001.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\dotnet\lesson01\examples\task001\obj\Debug\net6.0\task001.AssemblyInfoInputs.cache
+C:\repo\dotnet\lesson01\examples\task001\obj\Debug\net6.0\task001.AssemblyInfo.cs
+C:\repo\dotnet\lesson01\examples\task001\obj\Debug\net6.0\task001.csproj.CoreCompileInputs.cache
+C:\repo\dotnet\lesson01\examples\task001\obj\Debug\net6.0\task001.dll
+C:\repo\dotnet\lesson01\examples\task001\obj\Debug\net6.0\refint\task001.dll
+C:\repo\dotnet\lesson01\examples\task001\obj\Debug\net6.0\task001.pdb
+C:\repo\dotnet\lesson01\examples\task001\obj\Debug\net6.0\task001.genruntimeconfig.cache
+C:\repo\dotnet\lesson01\examples\task001\obj\Debug\net6.0\ref\task001.dll
